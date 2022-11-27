@@ -28,8 +28,8 @@ const commonColorStyles = {
 };
 
 const customColorStyles = {
-  goGreen: {
-    main: "#7ca260",
+  wunBlue: {
+    main: "#15133f",
   },
 };
 

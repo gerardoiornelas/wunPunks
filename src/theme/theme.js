@@ -10,7 +10,7 @@ import {
   commonColorStyles,
   bodyFont,
   customColorStyles,
-} from "./theme-config";
+} from "./theme.config";
 
 // A custom theme for this app
 const theme = createTheme({
