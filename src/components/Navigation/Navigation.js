@@ -20,7 +20,7 @@ const Navigation = ({ account }) => {
                   alt={"logo"}
                   sx={{ width: "40px" }}
                 />
-                <Box>
+                <Box ml={2}>
                   <Typography>WUN Template</Typography>
                 </Box>
               </Box>

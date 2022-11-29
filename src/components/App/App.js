@@ -51,15 +51,17 @@ function App() {
         <Loading />
       ) : (
         <Container>
-          <Typography variant="h3" align="center">
-            React Hardhat Template
-          </Typography>
-          <Typography align="center">
-            <strong>Your ETH Balance:</strong> {balance} ETH
-          </Typography>
-          <Typography align="center">
-            Edit App.js to add your code here.
-          </Typography>
+          <Box p={3}>
+            <Typography variant="h3" align="center">
+              React Hardhat Template
+            </Typography>
+            <Typography align="center">
+              <strong>Your ETH Balance:</strong> {balance} ETH
+            </Typography>
+            <Typography align="center">
+              Edit App.js to add your code here.
+            </Typography>
+          </Box>
         </Container>
       )}
     </Box>
