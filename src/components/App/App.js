@@ -7,10 +7,10 @@ import { Navigation } from "../Navigation";
 import { Loading } from "../Loading";
 
 // ABIs: Import your contract ABIs here
-// import TOKEN_ABI from '../abis/Token.json'
+// import TOKEN_ABI from '../../abis/Token.json'
 
 // Config: Import your network config here
-// import config from '../config.json';
+// import config from '../../config.json';
 
 function App() {
   const [account, setAccount] = useState(null);
