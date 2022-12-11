@@ -21,7 +21,7 @@ const Navigation = ({ account }) => {
                   sx={{ width: "40px" }}
                 />
                 <Box ml={2}>
-                  <Typography>WUN Template</Typography>
+                  <Typography>WUN Punks</Typography>
                 </Box>
               </Box>
             </Grid>
